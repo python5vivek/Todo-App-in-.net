@@ -55,9 +55,3 @@ Todo-App-in-.net/
 ```
 
 ---
-
-## Notes and Limitations 📝
-
-*   This project is described as a "First And a Learning project."
-*   Specific application functionality or features are not detailed beyond the project's learning objective.
-*   The `bin` directory contains build artifacts and is generally excluded from source control.
